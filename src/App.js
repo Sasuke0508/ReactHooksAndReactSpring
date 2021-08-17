@@ -14,8 +14,8 @@ function App() {
       {/* <UserProfile/> */}
       {/* <DemoJSS/> */}
       {/* <DemoTheme/> */}
-      {/* <ToDoList /> */}
-      <LifeCycleReact/>
+      <ToDoList />
+      {/* <LifeCycleReact/> */}
     </div>
   );
 }
