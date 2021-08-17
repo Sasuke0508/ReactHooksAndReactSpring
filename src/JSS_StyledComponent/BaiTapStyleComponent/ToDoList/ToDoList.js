@@ -102,7 +102,6 @@ class ToDoList extends Component {
                 <i className="fa fa-trash"></i>
               </Button>
             </Th>
-            ``
           </Tr>
         );
       });
