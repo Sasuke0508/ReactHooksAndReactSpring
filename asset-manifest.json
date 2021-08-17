@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactHooksAndReactSpring/static/css/main.a617e044.chunk.css",
+    "main.js": "/ReactHooksAndReactSpring/static/js/main.99527c90.chunk.js",
+    "main.js.map": "/ReactHooksAndReactSpring/static/js/main.99527c90.chunk.js.map",
+    "runtime-main.js": "/ReactHooksAndReactSpring/static/js/runtime-main.9785e910.js",
+    "runtime-main.js.map": "/ReactHooksAndReactSpring/static/js/runtime-main.9785e910.js.map",
+    "static/js/2.82a92452.chunk.js": "/ReactHooksAndReactSpring/static/js/2.82a92452.chunk.js",
+    "static/js/2.82a92452.chunk.js.map": "/ReactHooksAndReactSpring/static/js/2.82a92452.chunk.js.map",
+    "static/js/3.86cc50ed.chunk.js": "/ReactHooksAndReactSpring/static/js/3.86cc50ed.chunk.js",
+    "static/js/3.86cc50ed.chunk.js.map": "/ReactHooksAndReactSpring/static/js/3.86cc50ed.chunk.js.map",
+    "index.html": "/ReactHooksAndReactSpring/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ReactHooksAndReactSpring/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.82a92452.chunk.js.LICENSE.txt": "/ReactHooksAndReactSpring/static/js/2.82a92452.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactHooksAndReactSpring/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9785e910.js",
+    "static/js/2.82a92452.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.99527c90.chunk.js"
+  ]
+}
